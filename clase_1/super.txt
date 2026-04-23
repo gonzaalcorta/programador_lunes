@@ -1,3 +1,7 @@
 bananas
 manzanas
 galletas
+
+palta
+melon
+coca cola
